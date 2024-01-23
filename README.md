@@ -1,4 +1,4 @@
-# 🏂👨‍💻Jerome Habanz
+# 🏂Jerome Habanz
 
 I'm a versatile fullstack developer passionate about creating seamless and captivating web experiences. With expertise in frontend design and backend development, I specialize in crafting user-friendly interfaces and robust server-side solutions. Let's build something amazing together!
 
